@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alien Octopus
+* source:	https://sketchfab.com/3d-models/alien-octopus-a05b06d9900c40f0a74f2f732438ffc5
+* author:	agasherev (https://sketchfab.com/agasherev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alien Octopus" (https://sketchfab.com/3d-models/alien-octopus-a05b06d9900c40f0a74f2f732438ffc5) by agasherev (https://sketchfab.com/agasherev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	striped bug
+* source:	https://sketchfab.com/3d-models/striped-bug-63c421058652489787fb4b27f88febfe
+* author:	hectopod (https://sketchfab.com/hectopod)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "striped bug" (https://sketchfab.com/3d-models/striped-bug-63c421058652489787fb4b27f88febfe) by hectopod (https://sketchfab.com/hectopod) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
